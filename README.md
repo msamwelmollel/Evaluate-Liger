@@ -15,7 +15,9 @@ This notebook evaluates the performance of the Unsloth model, focusing on:
 
 - **Throughput**: Measures the number of tokens processed per second.
 - **Memory Usage**: Tracks the peak GPU memory usage during inference.
-- Total generated tokens: 5402
-- Total time taken: 277.00 seconds
-- Throughput (tokens per second): 19.50
-- Peak memory reserved (MB): 3144.00
+  
+#### Preliminary Results
+- **Total generated tokens**: 5402
+- **Total time taken**: 277.00 seconds
+- **Throughput (tokens per second)**: 19.50
+- **Peak memory reserved (MB)**: 3144.00
